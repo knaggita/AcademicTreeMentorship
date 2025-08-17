@@ -1,6 +1,6 @@
 # AcademicTreeMentorship
 
-AcademicTree and mentorship datasets from Zinodo [here](https://zenodo.org/records/13953546) and [here](https://zenodo.org/records/4917086)
+AcademicTree and mentorship datasets from Zinodo [here](https://zenodo.org/records/13953546) and [here](https://zenodo.org/records/4917086) and [here](https://github.com/sciosci/AFT-MAG/tree/main)
 
 
 ##  Overview
